@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anishkunwar444
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Bacheolor in IT
+- 🌱 I’m currently learning Python and studing
+        Bachelor in IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
